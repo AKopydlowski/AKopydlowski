@@ -31,7 +31,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twoj-github-username&theme=github-light-green&hide_border=true" alt="GitHub Streak" />
-</p>
