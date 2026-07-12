@@ -38,12 +38,7 @@
 ### 📊 Telemetry & Metrics
 
 <p align="left">
-  <!-- Karta ogólnych statystyk oraz wskaźnik streaków -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AKopydlowski&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ccff&icon_color=00ccff&text_color=ffffff" height="150" alt="Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKopydlowski&theme=tokyonight&hide_border=true&background=0D1117&ring=00ccff&fire=00ccff&currStreakLabel=00ccff" height="150" alt="Streak" />
-  <br><br>
-  <!-- Wykres najczęściej używanych języków w repozytoriach -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKopydlowski&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ccff&text_color=ffffff" width="380" alt="Top Langs" />
 </p>
 
 ---
